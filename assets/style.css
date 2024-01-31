@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+#input-box {
+    border: none;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    cursor: pointer;
+    box-sizing: border-box;
+    font-size: small;
+    padding: 10px;
+    display: inline-block;
+}
+
+#button-box {
+    height: 10px;
+    width: 10px;
+    padding: 0;
+    cursor: pointer;
+    vertical-align: middle;
+    display: inline-block;
+    height: 21px;
+    width: 21px;
+    font-size: medium;
+}
